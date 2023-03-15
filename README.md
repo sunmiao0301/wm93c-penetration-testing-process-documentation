@@ -1,7 +1,5 @@
 # wm93c-penetration-testing-process-documentation
 
-**Remember to change this repo to be public after PMA submitted**
-
 For 1_recon, the CherryTree structure is:
 
 ![image-20230120220747773](https://raw.githubusercontent.com/sunmiao0301/Public-Pic-Bed/main/imgfromPicGO/202301202207808.png)
